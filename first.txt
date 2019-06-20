@@ -1,1 +1,2 @@
 Hellow I am learning git don't you think it's cool 
+we have complete our first commit
